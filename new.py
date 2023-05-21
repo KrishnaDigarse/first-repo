@@ -3,4 +3,4 @@ b = int(input("b: "))
 
 sum = a + b
 
-print(f"Sum is {sum}")
+print(f"The Sum is {sum}")
